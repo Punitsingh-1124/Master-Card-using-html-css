@@ -2,5 +2,4 @@
 Using html & css created Master Card clone 
 
 
-
-https://github.com/user-attachments/assets/01964b4f-d847-497d-bc14-c41480cb34da
+https://github.com/user-attachments/assets/7f600933-aba5-4406-9e8c-bd9948be934c
